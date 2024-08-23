@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savith12345&label=Profile%20views&color=0e75b6&style=flat" alt="savith12345" /> </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38922397/149563737-82ef8db9-9d0c-4265-a03d-43acee1828ea.gif" alt="animated" />
+</p>
+
 - 🖥️  Programmer:   **Skilled in Python, Java, and C++, focusing on clean and efficient code.**
 
 - 🌐  Web Developer: **Experienced in HTML, CSS, JavaScript, and modern frameworks like React.js.**
