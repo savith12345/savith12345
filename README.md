@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savith12345&label=Profile%20views&color=0e75b6&style=flat" alt="savith12345" /> </p>
 
-<p align="center"><img src="[images/coding.gif](https://iconscout.com/lottie-animation/it-developer-coding-on-laptop-loading-10209706)" alt="coding.gif" width="300px"/></p>
-
+<p align="center"><img src="https://iconscout.com/lottie-animation/male-developer-working-on-laptop-8704055" alt="https://iconscout.com/lottie-animation/male-developer-working-on-laptop-8704055" width="300px"/></p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=500&width=1280&height=80&lines=Web+Developer+;Mobile+Developer+;Backend+Developer+;Programmer+;UI/UX+Designer+;Forward+Thinker+;Problem+Solver+;Lifelong+Learner+"/>
 </p><br>   
