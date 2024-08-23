@@ -1,7 +1,7 @@
 <h1 align="center">I'm Savith Abeyrathna</h1>
 <h3 align="center">-A passionate Software Engineer from Sri Lanka-</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savith12345&label=Profile%20views&color=0e75b6&style=flat" alt="savith12345" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=savith12345&label=Profile%20views&color=0e75b6&style=flat" alt="savith12345" /> </p>
 
 - 🖥️  Programmer:   **Skilled in Python, Java, and C++, focusing on clean and efficient code.**
 
